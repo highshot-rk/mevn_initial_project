@@ -1,3 +1,3 @@
-### Node Express template project
+### MEVN template project
 
 Everyone start your mevn project from this.
